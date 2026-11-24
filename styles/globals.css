@@ -10,3 +10,8 @@ html,body{max-width:100%;overflow-x:clip} main{min-width:0} [lang=ru] body{font-
 
 @font-face{font-family:InterCyrillic;src:url('/assets/fonts/inter-cyrillic.ttf') format('truetype');font-style:normal;font-weight:500;font-display:swap}
 
+/* Shared navigation and actions */
+.siteHeader{position:absolute;background:#101719;color:#f6f8f6}.headerRow{max-width:1600px;margin:auto;min-height:92px;padding:20px max(6vw,24px);grid-template-columns:auto 1fr auto}.desktopNav{justify-content:center;gap:32px}.desktopNav a{font-size:14px;color:#c4d1cb}.desktopNav a[aria-current=page],.desktopNav a:hover{color:white}.languagePanel{background:#20312d;color:white;width:auto;min-width:0;height:auto;padding:8px 12px;border-radius:8px}.languagePanel .langs a{color:#b8cbc3}.languagePanel .langs a[aria-current=true],.languagePanel .langs a:hover{color:white}.action{border:0;border-radius:8px;padding:15px 20px;background:#b8eee0;color:#102821;width:auto;min-width:180px;justify-content:center;font-size:15px}.actionArrow{display:none}.action.secondary{padding:14px 0;color:inherit;background:transparent;border-bottom:1px solid currentColor;border-radius:0;font-size:15px;min-width:0}.footer{background:#101719}.footerBrand img{max-width:700px}.footerFlex .action{width:max-content}.footerLinks>a{font-size:15px}.footerLinks sup{display:none}
+@media(max-width:809px){.headerRow{height:76px;min-height:76px;padding:18px 24px}.siteHeader.isOpen,.compact{background:#101719}.compact nav a{font-size:16px}.compactEnd{background:#e8efeb}.footerFlex h2,.footerEmail{font-size:clamp(28px,7vw,48px)}}
+@media(max-width:809px){.footerEmail{font-size:clamp(20px,5.4vw,32px);letter-spacing:-.04em}.footerBrand img{width:100%;height:auto}}
+
