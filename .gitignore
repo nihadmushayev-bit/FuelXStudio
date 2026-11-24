@@ -8,3 +8,5 @@ originals/
 next-env.d.ts
 test-results/
 playwright-report/
+docs/reference/
+docs/comparison/
