@@ -11,4 +11,11 @@ export const studio = {
 };
 export const features = { showFounderPortraits: false, showTestimonials: false, showArticles: false, showVerifiedStatistics: false, mobilePlatforms: { ios: true, android: true, crossPlatform: true } };
 export const routes = {home:'',portfolio:'/work/portfolio',services:'/services',about:'/about',contact:'/contact'} as const;
-export const art = (name:string) => '/assets/editorial/' + name + '.webp';
+const workVisuals: Record<string, string> = {
+  hero: 'studio-digital', about: 'dashboard', portfolio: 'analytics', contact: 'studio-digital', studio: 'analytics',
+  'service-1': 'analytics', 'service-2': 'dashboard', 'service-3': 'dashboard', 'service-4': 'analytics',
+  'service-5': 'studio-digital', promo: 'studio-digital',
+};
+
+/** Temporary studio visuals. They are not customer case studies. */
+export const art = (name: string) => '/assets/work/' + (workVisuals[name] || 'dashboard') + '.jpg';

@@ -1,5 +1,9 @@
 # Asset sources and use
 
+## Current website imagery
+
+The current website uses `public/assets/work/studio-digital.jpg`, generated with OpenAI ImageGen from the prompt “A premium digital product studio monitor showing abstract web design interfaces, UI cards and code, cyan and orange lighting, without people or logos.” It also uses dashboard photographs by [Stephen Dawson](https://unsplash.com/photos/turned-on-monitoring-screen-qwtCeJ5cLYs) and [1981 Digital](https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-data-on-it-bf9sZBcGQl4), under the [Unsplash License](https://unsplash.com/license). These are illustrative visuals, not client projects. The historical Pexels assets described below have been removed from the website.
+
 ## Brand originals
 
 The studio approved the two files below from its Downloads folder. The private source copies in `originals/brand/` retain their original names and bytes.
