@@ -1,0 +1,391 @@
+{
+  "nav": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "services": "Services",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "skip": "Skip to content",
+    "homeLink": "FUEL X STUDIO home"
+  },
+  "actions": {
+    "start": "Start a project",
+    "explore": "Explore our work",
+    "more": "About the studio",
+    "allWork": "All projects",
+    "contact": "Get in touch",
+    "quote": "Request a quote",
+    "discuss": "Discuss your project",
+    "live": "Visit website",
+    "next": "Next project",
+    "backHome": "Back to home",
+    "allServices": "Explore our services",
+    "read": "Read article"
+  },
+  "home": {
+    "heroTitle": "Design. Develop. Deliver.",
+    "heroLines": [
+      "We create websites, mobile apps",
+      "and digital experiences built",
+      "for modern businesses."
+    ],
+    "intro": "An independent digital design and development studio for businesses with an idea worth building.",
+    "aboutStatement": "We turn business ideas into websites, mobile applications, and digital experiences with a clear purpose.",
+    "aboutColumns": [
+      {
+        "title": "The idea",
+        "text": "What should your visitors understand, feel, or do? We start there, with the people who will actually use your product."
+      },
+      {
+        "title": "The product",
+        "text": "We design the interface, build the experience, and test the details that make it feel effortless to use."
+      }
+    ],
+    "workTitle": "Selected work",
+    "servicesIntro": "From the first sketch to the live product, we design and build the parts of a digital experience that people see, use, and rely on.",
+    "promoTitle": "Your vision. Our execution.",
+    "promoText": "Tell us what you have in mind. We’ll work through what it takes to bring it to life.",
+    "capabilitiesTitle": "What we bring to a project",
+    "disciplines": [
+      "Digital design",
+      "Web development",
+      "Mobile apps"
+    ],
+    "edition": "Studio edition"
+  },
+  "sections": {
+    "about": "About us",
+    "work": "Selected work",
+    "services": "Services",
+    "process": "Our process",
+    "principles": "Client experience",
+    "archive": "Project archive",
+    "capabilities": "Studio capabilities",
+    "insights": "Insights",
+    "faq": "Frequently asked questions",
+    "founders": "Our founders",
+    "story": "Studio story",
+    "philosophy": "Our philosophy",
+    "approach": "Development approach",
+    "related": "Related projects",
+    "research": "Research",
+    "design": "Design",
+    "development": "Development",
+    "results": "Results",
+    "gallery": "Gallery"
+  },
+  "about": {
+    "heroTitle": "About",
+    "heroKicker": "Our studio",
+    "intro": "Independent by design. We bring visual design and development together to build digital products with purpose.",
+    "headline": "Built for what's next.",
+    "paragraphs": [
+      "FUEL X STUDIO is an independent digital design and development studio creating modern websites, mobile applications, and digital experiences for ambitious businesses.",
+      "Founded at the intersection of advertising experience, creative direction, and digital design, our studio transforms ideas into functional digital products.",
+      "We combine refined visual design with modern development practices, strategic thinking, and efficient execution.",
+      "From the initial concept to the final launch, every project is approached with precision, purpose, and attention to detail.",
+      "We believe exceptional digital products should look remarkable and perform exceptionally."
+    ],
+    "philosophy": "A good interface gives people a clear path. We use typography, composition, and motion to draw attention to what matters and make the next step feel natural.",
+    "approach": "We prototype the important interactions early. Then we build, test, and refine the product on the screens and devices your audience uses."
+  },
+  "portfolio": {
+    "heroTitle": "Portfolio",
+    "heroKicker": "Selected work",
+    "intro": "A closer look at the websites, applications, and interfaces we design and build.",
+    "emptyTitle": "Our portfolio is taking shape.",
+    "emptyText": "We’re preparing our project stories. If you’d like to discuss a similar brief, get in touch with the studio.",
+    "category": "Category",
+    "year": "Year",
+    "client": "Client",
+    "overview": "Project overview",
+    "objectives": "Objectives"
+  },
+  "servicePage": {
+    "heroTitle": "Services",
+    "heroKicker": "What we do",
+    "intro": "We shape each project around its audience, its purpose, and the way your business works.",
+    "capabilities": "What we can build",
+    "process": "How we approach it",
+    "related": "Related work"
+  },
+  "services": [
+    {
+      "id": "web-design",
+      "title": "Web Design",
+      "short": "Websites with a distinct visual identity.",
+      "description": "We give your content a clear structure and your website a visual language of its own. Layout, typography, and interaction work together on every screen.",
+      "capabilities": [
+        "Custom website design",
+        "Corporate and creative websites",
+        "Portfolio websites",
+        "Landing pages",
+        "E-commerce design",
+        "Responsive layouts and interactive experiences"
+      ],
+      "process": "We map the pages and their priorities, explore a visual direction, and refine responsive designs with your feedback."
+    },
+    {
+      "id": "web-development",
+      "title": "Web Development",
+      "short": "Responsive websites built to perform.",
+      "description": "We turn approved designs into fast, accessible websites that your team can maintain. The content and integrations shape the technical approach.",
+      "capabilities": [
+        "Custom website and frontend development",
+        "Backend integration",
+        "CMS integration",
+        "Responsive implementation",
+        "Performance optimization",
+        "Technical SEO and deployment"
+      ],
+      "process": "We agree on the technical requirements, build reusable components, and test the complete site before launch."
+    },
+    {
+      "id": "mobile-apps",
+      "title": "Mobile App Design & Development",
+      "short": "Mobile products designed around everyday use.",
+      "description": "We design and develop mobile applications around the tasks your users need to complete. We agree on the right platforms and delivery approach during discovery.",
+      "capabilities": [
+        "Custom mobile app design and development",
+        "Mobile product interfaces",
+        "Interactive prototypes",
+        "iOS applications",
+        "Android applications",
+        "Cross-platform applications"
+      ],
+      "process": "We map the core user journeys, test a touch-ready prototype, and build the agreed features for the selected platforms."
+    },
+    {
+      "id": "ui-ux",
+      "title": "UI/UX Design",
+      "short": "Interfaces that make the next step clear.",
+      "description": "We look at how people move through a product and where they need help. That understanding guides its flows, interface, and design system.",
+      "capabilities": [
+        "User interface and experience design",
+        "Wireframing",
+        "Interactive prototyping",
+        "Digital design systems",
+        "Product design",
+        "Responsive interfaces"
+      ],
+      "process": "We work through the user flows, explore wireframes, and refine the interface into a consistent set of components."
+    },
+    {
+      "id": "custom-solutions",
+      "title": "Custom Digital Solutions",
+      "short": "Software shaped around your business.",
+      "description": "When an existing tool doesn’t fit the work, we design one around it. We translate your requirements into a digital product with a clear role in your business.",
+      "capabilities": [
+        "Custom web applications",
+        "Business platforms",
+        "Interactive tools",
+        "Dashboards",
+        "Digital product development",
+        "Custom software solutions"
+      ],
+      "process": "We study the workflow with you, define the smallest useful version, and develop and refine it around real tasks."
+    }
+  ],
+  "founders": [
+    {
+      "id": "nihad",
+      "name": "Nihad Mushazade",
+      "role": "Founder",
+      "bio": "Nihad brings experience in advertising agencies, creative business development, and digital strategy. His work connects client communication and project management, helping turn a business goal into a clear project brief."
+    },
+    {
+      "id": "tural",
+      "name": "Tural Mushazade",
+      "role": "Co-Founder & Designer",
+      "bio": "Tural works across visual design, creative design, and digital product design. He shapes how a product looks and feels, from its first visual direction to the details of the interface."
+    }
+  ],
+  "process": [
+    {
+      "title": "Discover",
+      "text": "We learn about your business, your audience, and the problem the product needs to solve. Together we agree on priorities and scope."
+    },
+    {
+      "title": "Design",
+      "text": "We explore visual directions and turn the chosen approach into layouts and interactive prototypes you can review."
+    },
+    {
+      "title": "Develop",
+      "text": "We build the approved experience, connect its features, and adapt it for the screens and platforms in the brief."
+    },
+    {
+      "title": "Refine",
+      "text": "We check the details together, test real user journeys, and make the adjustments that matter before launch."
+    },
+    {
+      "title": "Launch",
+      "text": "We prepare the release, check the live product, and hand over the materials your team needs to use it."
+    }
+  ],
+  "principles": [
+    {
+      "title": "Clear communication",
+      "text": "We agree on priorities together, share progress, and keep a clear record of decisions."
+    },
+    {
+      "title": "Attention to detail",
+      "text": "We review type, spacing, interaction, and behavior across screen sizes."
+    },
+    {
+      "title": "Efficient execution",
+      "text": "We work in reviewable stages so feedback reaches the product while it can make a difference."
+    },
+    {
+      "title": "Customized solutions",
+      "text": "Your audience and business requirements guide the design and technical choices."
+    },
+    {
+      "title": "Professional delivery",
+      "text": "We define the handover in advance and walk you through the finished product."
+    }
+  ],
+  "capabilities": [
+    "Creative direction",
+    "Digital design",
+    "Web development",
+    "Mobile development",
+    "Digital strategy",
+    "Quality assurance"
+  ],
+  "faq": [
+    {
+      "q": "Can you design a website around our brand?",
+      "a": "Yes. We start with your brand, content, and audience, then design the structure, typography, and layouts that suit the website you need."
+    },
+    {
+      "q": "Can you build a website from an existing design?",
+      "a": "Yes. We review the design files, responsive layouts, and required integrations with you before agreeing on the development scope."
+    },
+    {
+      "q": "Do you design and develop mobile applications?",
+      "a": "Yes. We can work on an interface, a prototype, or the application itself. We agree on iOS, Android, or a cross-platform approach according to your requirements."
+    },
+    {
+      "q": "How long does a project take?",
+      "a": "Timing depends on scope, content readiness, integrations, and review rounds. Once we understand the brief, we propose a schedule with clear milestones."
+    },
+    {
+      "q": "How do I request a quote?",
+      "a": "Send a short description of the project, your goals, and any timing constraints. We’ll review your requirements and prepare a private proposal."
+    },
+    {
+      "q": "Can you build a custom tool for our business?",
+      "a": "Yes. Tell us how the current workflow works and who uses it. We can explore a custom application, dashboard, or platform around those needs."
+    },
+    {
+      "q": "How will we stay in touch during the project?",
+      "a": "At the start we agree on a contact channel and review schedule. You can follow progress, give feedback, and approve work at the agreed stages."
+    },
+    {
+      "q": "What happens at launch and handover?",
+      "a": "We test the agreed features, check the release, and hand over the files, access, and guidance defined in the project scope."
+    }
+  ],
+  "contact": {
+    "heroTitle": "Get in touch",
+    "heroKicker": "Project inquiries",
+    "intro": "Tell us about your project, what you want it to do, and where you’d like our help.",
+    "emailLabel": "Email the studio",
+    "socialLabel": "Follow the studio",
+    "formTitle": "Start a project"
+  },
+  "form": {
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email address",
+    "company": "Company name",
+    "type": "Project type",
+    "description": "Project description",
+    "timeline": "Expected timeline",
+    "optional": "Optional",
+    "choose": "Choose a project type",
+    "submit": "Send inquiry",
+    "sending": "Sending…",
+    "received": "We’ve received your inquiry. Thank you for sharing your project with us.",
+    "error": "We couldn’t process your inquiry. Please try again or email the studio directly.",
+    "unavailable": "Please send your project brief to the studio by email.",
+    "invalid": "Check the highlighted fields and try again.",
+    "required": "Please fill in this field.",
+    "invalidEmail": "Enter a valid email address.",
+    "tooLong": "Please shorten your response.",
+    "rateLimit": "You’ve sent several inquiries recently. Please try again later.",
+    "other": "Other",
+    "types": [
+      "Website design",
+      "Website development",
+      "Mobile application",
+      "UI/UX design",
+      "Custom digital solution",
+      "Other"
+    ]
+  },
+  "footer": {
+    "headline": "Let’s work together",
+    "contact": "Contact the studio",
+    "explore": "Explore",
+    "follow": "Follow us",
+    "copyright": "All rights reserved."
+  },
+  "error": {
+    "title": "Page not found",
+    "text": "This page may have moved or hasn’t been published. Return to the homepage to explore the studio.",
+    "back": "Return to home"
+  },
+  "article": {
+    "author": "Author",
+    "date": "Published",
+    "previous": "Previous article",
+    "next": "Next article"
+  },
+  "a11y": {
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "projectImage": "Project image",
+    "previous": "Previous",
+    "next": "Next",
+    "language": "Choose language",
+    "external": "Opens in a new tab"
+  },
+  "meta": {
+    "home": {
+      "title": "FUEL X STUDIO — Digital design & development",
+      "description": "Independent studio for web design, web development, mobile applications, and custom digital products."
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "description": "Explore the FUEL X STUDIO portfolio of websites, applications, and digital product design."
+    },
+    "about": {
+      "title": "About the studio",
+      "description": "Meet founders Nihad Mushazade and Tural Mushazade and explore the design and development approach behind FUEL X STUDIO."
+    },
+    "services": {
+      "title": "Services",
+      "description": "Web design and development, mobile products, UI/UX design, and custom digital solutions for your business."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Start a project with FUEL X STUDIO. Share your goals and get in touch about design, development, or a custom digital product."
+    },
+    "project": {
+      "title": "Project",
+      "description": "A FUEL X STUDIO case study covering the brief, design decisions, development, and results."
+    },
+    "article": {
+      "title": "Studio insights",
+      "description": "Editorial notes from FUEL X STUDIO on digital design, development, and working on digital products."
+    },
+    "notFound": {
+      "title": "Page not found",
+      "description": "Find your way back to the FUEL X STUDIO homepage."
+    }
+  }
+}

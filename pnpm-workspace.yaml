@@ -1,0 +1,7 @@
+allowBuilds:
+  '@parcel/watcher': true
+  '@swc/core': true
+  sharp: true
+minimumReleaseAgeExclude:
+  - icu-minify@4.15.3
+  - next-intl@4.16.0
